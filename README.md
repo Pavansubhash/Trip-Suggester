@@ -19,7 +19,7 @@ Key Features:
 The Trip Suggester project aims to revolutionize the way individuals plan their travels by providing tailored recommendations that align with their unique preferences. With its personalized approach, comprehensive destination information, and user-friendly interface, the project seeks to enhance the overall travel planning and exploration experience for users.
 
 
-![image](https://github.com/Pavansubhash/Trip-Suggester/assets/109154212/1afe6c51-9405-4070-8ad0-2023e10754ad)
+![image](https://github.com/Pavansubhash/Trip-Suggester/assets/109154212/8e096f09-931d-4db8-ba00-a52174ea4152)
 ![image](https://github.com/Pavansubhash/Trip-Suggester/assets/109154212/be6b33ff-c547-4358-8563-04e4a5ea344a)
 ![image](https://github.com/Pavansubhash/Trip-Suggester/assets/109154212/13ffee2c-3d09-46c2-9c3d-50457e9c6bdf)
 ![image](https://github.com/Pavansubhash/Trip-Suggester/assets/109154212/314472a3-db81-47c4-9529-e0995782aebf)
