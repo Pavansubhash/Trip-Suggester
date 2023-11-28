@@ -19,13 +19,14 @@ Key Features:
 The Trip Suggester project aims to revolutionize the way individuals plan their travels by providing tailored recommendations that align with their unique preferences. With its personalized approach, comprehensive destination information, and user-friendly interface, the project seeks to enhance the overall travel planning and exploration experience for users.
 
 
-![image](https://github.com/Pavansubhash/Trip-Suggester/assets/109154212/8e096f09-931d-4db8-ba00-a52174ea4152)
+
 ![image](https://github.com/Pavansubhash/Trip-Suggester/assets/109154212/be6b33ff-c547-4358-8563-04e4a5ea344a)
 ![image](https://github.com/Pavansubhash/Trip-Suggester/assets/109154212/13ffee2c-3d09-46c2-9c3d-50457e9c6bdf)
-![image](https://github.com/Pavansubhash/Trip-Suggester/assets/109154212/314472a3-db81-47c4-9529-e0995782aebf)
+![image](https://github.com/Pavansubhash/Trip-Suggester/assets/109154212/e31852b5-9a88-4d68-aa89-8f2f30432170)
 ![image](https://github.com/Pavansubhash/Trip-Suggester/assets/109154212/705f36f9-a9ed-429a-ba89-0aa975fa6cb8)
 ![image](https://github.com/Pavansubhash/Trip-Suggester/assets/109154212/95d091f4-bb18-4047-acac-dc9d3cf95892)
 ![image](https://github.com/Pavansubhash/Trip-Suggester/assets/109154212/028c91bf-c686-43fa-8158-dace8dd8e76c)
+![image](https://github.com/Pavansubhash/Trip-Suggester/assets/109154212/8e096f09-931d-4db8-ba00-a52174ea4152)
 ![image](https://github.com/Pavansubhash/Trip-Suggester/assets/109154212/6700e7e0-f39c-4618-8ca7-c78b3c6d4283)
 
 
