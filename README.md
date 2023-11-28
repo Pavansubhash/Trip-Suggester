@@ -1,7 +1,6 @@
 # Trip-Suggester
-Major tools- Html,Css Github – The main objective of the project is to develop a trip suggestion web page that provides personalized travel recommendations based on user-inputted places. – The web page provides a user-friendly interface that allows users to easily input their desired places and view the suggested travel options.
-3.	Trip suggeser:
-Summary:
+Major tools- Html,Css Github
+
 The Trip Suggester project aims to provide personalized travel recommendations to users based on their preferences and interests. By leveraging user input and utilizing an intelligent recommendation algorithm, the system will generate tailored trip suggestions that cater to individual tastes, budget constraints, and desired destinations. The project will involve data collection, algorithm development, and the creation of an intuitive user interface for an enhanced travel planning experience. The goal is to deliver a user-friendly and efficient tool that assists travelers in discovering exciting destinations and planning memorable trips.
 
 Key Features:
